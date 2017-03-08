@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include light_test *.css
+recursive-include light_test *.csv
+recursive-include light_test *.html
+recursive-include light_test *.ico
+recursive-include light_test *.js
+recursive-include light_test *.json
+recursive-include light_test *.md
+recursive-include light_test *.png
+recursive-include light_test *.py
+recursive-include light_test *.svg
+recursive-include light_test *.txt
+recursive-exclude light_test *.pyc

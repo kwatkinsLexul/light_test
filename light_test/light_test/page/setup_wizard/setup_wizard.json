@@ -1,0 +1,25 @@
+{
+ "content": null, 
+ "creation": "2013-10-04 13:49:33", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 1, 
+ "modified": "2017-02-03 19:46:32.146827", 
+ "modified_by": "Administrator", 
+ "module": "Light Test", 
+ "name": "setup-wizard", 
+ "owner": "Administrator", 
+ "page_name": "setup-wizard", 
+ "roles": [
+  {
+   "role": "Administrator"
+  }, 
+  {
+   "role": "Light_tester"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "title": "Setup Wizard"
+}
